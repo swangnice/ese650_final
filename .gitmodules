@@ -16,3 +16,6 @@
 [submodule "vendors/wococo"]
 	path = vendors/wococo
 	url = https://github.com/LeCAR-Lab/wococo.git
+[submodule "forked/wococo"]
+	path = forked/wococo
+	url = https://github.com/swangnice/wococo.git
