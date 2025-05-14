@@ -7,3 +7,9 @@
 [submodule "vendors/unitree_rl_gym"]
 	path = vendors/unitree_rl_gym
 	url = https://github.com/unitreerobotics/unitree_rl_gym.git
+[submodule "forked/dial-mpc"]
+	path = forked/dial-mpc
+	url = https://github.com/swangnice/dial-mpc.git
+[submodule "forked/unitree_rl_gym"]
+	path = forked/unitree_rl_gym
+	url = https://github.com/swangnice/unitree_rl_gym.git
