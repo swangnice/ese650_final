@@ -13,3 +13,6 @@
 [submodule "forked/unitree_rl_gym"]
 	path = forked/unitree_rl_gym
 	url = https://github.com/swangnice/unitree_rl_gym.git
+[submodule "vendors/wococo"]
+	path = vendors/wococo
+	url = https://github.com/LeCAR-Lab/wococo.git
