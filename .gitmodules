@@ -19,3 +19,21 @@
 [submodule "forked/wococo"]
 	path = forked/wococo
 	url = https://github.com/swangnice/wococo.git
+[submodule "vendors/HOVER"]
+	path = vendors/HOVER
+	url = https://github.com/NVlabs/HOVER.git
+[submodule "forked/HOVER"]
+	path = forked/HOVER
+	url = https://github.com/swangnice/HOVER.git
+[submodule "vendors/humanoid-bench"]
+	path = vendors/humanoid-bench
+	url = https://github.com/carlosferrazza/humanoid-bench.git
+[submodule "forked/humanoid-bench"]
+	path = forked/humanoid-bench
+	url = https://github.com/swangnice/humanoid-bench.git
+[submodule "forked/ProtoMotions"]
+	path = forked/ProtoMotions
+	url = https://github.com/swangnice/ProtoMotions.git
+[submodule "forked/ALMI-Open"]
+	path = forked/ALMI-Open
+	url = https://github.com/swangnice/ALMI-Open.git

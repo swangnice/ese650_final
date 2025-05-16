@@ -1,0 +1,13 @@
+{
+    "unitree_rl_gym": 2.5,
+    "ALMI_RL: lower iter1": 10.78,
+    "ALMI_RL: lower iter2": 10.91,
+    "ALMI_RL: upper iter1(Not Important)": 11.05,
+    "HOVER teacher policy": 14.67,
+    "HOVER student policy": 4.88,
+    "Protomotion": 24.6,
+    "Protomotion expert tracker": 11.31,
+    "Protomotion masked_mimic_h1": 13.42,
+    "WOCOCO": 7.99
+}
+  
