@@ -1,6 +1,7 @@
 # ESE650_Final
 
-This repository aggregates several upstream robotics libraries (in `vendors/`) alongside our own customized forks (in `forked/`).  
+This repository aggregates several upstream robotics libraries (in `vendors/`) alongside our own customized forks (in `forked/`). We won’t include all the detailed modifications for each model during training here, since there's not enough space when uploading code to Gradescope. Instead, we’ll reference the original codebase, and the specific details can be found in the report.
+
 
 ## Repository Layout
 ```
