@@ -24,4 +24,10 @@ This repository aggregates several upstream robotics libraries (in `vendors/`) a
 ```
 
 ## Using Instruction
+clone all submoudlues
+```
+git submodule update --init --recursive
+
+```
+
 Please follow each Repo installation instuction
